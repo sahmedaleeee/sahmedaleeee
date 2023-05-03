@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ahmed Ali a Data Enthusiast 
-  . 🔭 I’m currently working on Datawarehouse Architecture & Analytics Services
-  . 🌱 I’m currently learning Unsupervised Machine Learning
-  . 📫 How to reach me: sahmedaleeee@gmail.com
+- 🔭 I’m currently working on Datawarehouse Architecture & Analytics Services
+- 🌱 I’m currently learning Unsupervised Machine Learning
+- 📫 How to reach me: sahmedaleeee@gmail.com
 
 <!--
 **sahmedaleeee/sahmedaleeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
