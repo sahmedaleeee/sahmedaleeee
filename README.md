@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on **Datawarehouse Architecture & Analytic Services**<br><br> 
 - 🌱 I’m currently learning **Unsupervised Machine Learning**<br><br> 
 - 💬 Ask me about **Data Analytics and Story-telling**<br><br> 
-- 📫 How to reach me **sahmedaleeee@gmail.com**
+- 📫 How to reach me **sahmedalee.97@gmail.com**
 
 <br/>
 
