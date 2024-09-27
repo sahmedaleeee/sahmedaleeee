@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Datawarehouse Architecture & Analytic Services**<br><br> 
-- 🌱 I’m currently learning **Unsupervised Machine Learning**<br><br> 
+- 🔭 I’m currently working on **Sales Forecasting & Predictive Analytic Services**<br><br> 
+- 🌱 I’m currently learning **Deep Learning**<br><br> 
 - 💬 Ask me about **Data Analytics and Story-telling**<br><br> 
 - 📫 How to reach me **sahmedalee.97@gmail.com**
 
@@ -40,7 +40,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FF7F50?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
