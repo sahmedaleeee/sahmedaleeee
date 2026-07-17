@@ -1,21 +1,27 @@
-# Hi, I'm Syed Ahmed Ali 👋
+# Hi, I'm Syed Ahmed Ali
 
-**Senior Data Analyst | Power BI · Snowflake · SQL | Dubai, UAE**
+**Senior Data Analyst | Power BI, Snowflake, SQL | Dubai, UAE**
 
-I build end-to-end reporting solutions — not just dashboards, but full systems combining automated data pipelines, alerting, manual data capture, and report automation that stakeholders can trust for decision-making.
+I build end-to-end reporting solutions. Not just dashboards, but full systems that combine automated data pipelines, alerting, manual data capture, and report automation, so stakeholders can actually trust the numbers they make decisions with.
 
-# 💫 About Me:
-- 🔭 I'm currently working on **Snowflake medallion-architecture pipelines, supply chain analytics & AI-powered analyst agents (Snowflake Cortex)**
-- 🏗️ I design **single-source-of-truth reporting systems** on Power BI + Snowflake, fed from Dynamics 365 F&O and Business Central via Azure Data Factory
-- 🌱 I'm currently learning **Deep Learning, Microsoft Fabric & dbt**
-- 💬 Ask me about **Data Analytics, DAX, Data Storytelling & BI architecture**
-- ⚡ Highlights: **~47% Snowflake cost reduction** · **40+ hrs/month saved via automation** · **90% accurate sales forecasting model**
-- 📫 How to reach me: **sahmedalee.97@gmail.com**
+## About Me
+
+I'm a Senior Data Analyst at Webcor Group in Dubai, where I own BI reporting across supply chain and logistics: shipment tracking, purchase orders, sales forecasting, production, inventory, and warehouse management. My day-to-day runs on Power BI and Snowflake, with data flowing in from Dynamics 365 F&O and Business Central through Azure Data Factory pipelines into a medallion architecture (Bronze/Silver/Gold) that I designed and maintain.
+
+Before this, I spent time at Majid Al Futtaim working across FP&A and Business Development, building financial dashboards, a Python sales forecasting model with around 90% accuracy, and a site-selection mapping tool that changed how the team scouted new store locations. Earlier in Karachi, I led data science at a logistics fintech, where I designed the MongoDB-to-SQL database architecture from scratch and helped launch an analytics-as-a-service product for customers.
+
+Some things I'm proud of: cutting our monthly Snowflake bill from over $6,000 to around $3,200 by rewriting queries and restructuring the reporting layer, saving teams 40+ hours a month through report automation, and building reporting people rely on instead of second-guessing.
+
+- Currently working on: Snowflake Cortex and AI-powered analyst agents, plus a self-service ABC classification tool for inventory
+- Currently learning: Deep Learning, Microsoft Fabric, and dbt
+- Ask me about: DAX, data storytelling, BI architecture, and getting messy ERP data into shape
+- I speak English, Urdu, Hindi, and Chinese (Mandarin), the last one from my university years in Nanjing
+- Reach me at: **sahmedalee.data@gmail.com**
 
 <br/>
 
-## 📊 Portfolio
-[![Power BI Portfolio](https://img.shields.io/badge/NovyPro-Power_BI_Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.novypro.com/profile_projects/sahmedalee)
+## Portfolio
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.fabric.microsoft.com/view?r=eyJrIjoiNWNhYTlkZjEtMTM3ZS00ZjhhLTk0NzctODQ2MWZkZTcxYzIzIiwidCI6IjMxNjgzMGQ2LWFjMTYtNGZhOC1iMWI4LTFjZDMyM2UzMDZjYSJ9)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-Dashboards-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ahmed3072)
 
 <br/>
@@ -74,18 +80,18 @@ I build end-to-end reporting solutions — not just dashboards, but full systems
 
 <br/>
 
-## 🚀 What I've Built
-- **Supply chain & logistics reporting system** — shipment tracking, PR/PO, forecasting, production, inventory & DC/warehouse management on Power BI + Snowflake
-- **Warehouse inventory dashboard** — slot-level item location, space utilization & inbound/outbound movement
-- **Dynamic ABC classification tool** — self-service classification by warehouse, region, date range & threshold (margin or sales)
-- **Analytics-as-a-service platform** — customer-specific Power BI dashboards embedded in a logistics CRM (+30–35% customer acquisition)
-- **Credit scoring engine** — monthly-refreshed Python model, ~80% accuracy predicting probability of default
-- **Interactive site-selection map** — Dubai residential growth vs. competitor & own-store locations for retail expansion decisions
+## What I've Built
+- **Supply chain & logistics reporting system**: shipment tracking, PR/PO, forecasting, production, inventory and DC/warehouse management on Power BI + Snowflake
+- **Warehouse inventory dashboard**: slot-level item location, space utilization and inbound/outbound movement
+- **Dynamic ABC classification tool**: self-service classification by warehouse, region, date range and threshold, based on margin or sales
+- **Analytics-as-a-service platform**: customer-specific Power BI dashboards embedded in a logistics CRM, which helped grow customer acquisition by 30-35%
+- **Credit scoring engine**: monthly-refreshed Python model with roughly 80% accuracy in predicting probability of default
+- **Interactive site-selection map**: Dubai residential growth plotted against competitor and own-store locations for retail expansion decisions
 
 <br/>
 
-## 🌐 Languages I Speak
-English · Urdu · Hindi · Chinese (Mandarin)
+## Languages I Speak
+English, Urdu, Hindi, Chinese (Mandarin)
 
 <br/>
 
@@ -97,8 +103,8 @@ English · Urdu · Hindi · Chinese (Mandarin)
 <a href="https://linkedin.com/in/sahmedalee" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.novypro.com/profile_projects/sahmedalee" target="_blank">
-<img src=https://img.shields.io/badge/NovyPro-F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black alt=novypro style="margin-bottom: 5px;" />
+<a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiNWNhYTlkZjEtMTM3ZS00ZjhhLTk0NzctODQ2MWZkZTcxYzIzIiwidCI6IjMxNjgzMGQ2LWFjMTYtNGZhOC1iMWI4LTFjZDMyM2UzMDZjYSJ9" target="_blank">
+<img src=https://img.shields.io/badge/Power_BI-F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black alt=powerbi style="margin-bottom: 5px;" />
 </a>
 <a href="https://public.tableau.com/app/profile/ahmed3072" target="_blank">
 <img src=https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white alt=tableau style="margin-bottom: 5px;" />
